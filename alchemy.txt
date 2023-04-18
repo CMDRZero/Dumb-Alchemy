@@ -1,0 +1,113 @@
+Water::A
+Ferrum::B
+Aurum::C
+Cuprum::D
+Air::E
+Plumbum::F
+Iridium::G
+Electricity::H
+Earth::I
+Fire::J
+Sprits::K
+Worm Blood::L
+Stibnum::M
+Hydrargyrum::N
+Argentum::O
+Aqua Ragia::P
+Brimstone::Q
+Stannum::R
+Arsenic::S
+Verdigris::T
+Plumbago::U
+Orpiment::V
+Massicot::W
+Shifting Matter::X
+Ether::Y
+Solar Matter::Z
+
+Salt-1
+Glauber's Salt-2
+Sal Alembroth-4
+Sal Ammoniac-2
+Saltpetre-2
+Salt of Tartar-3
+Sart of Heartshorn-3
+Tin Salt-2
+Hichan Acid-2
+Acceleratium-2
+Glass of Antimony-4
+Brine-1
+Borax-4
+Crimtane-4
+Freezing Liquid-2
+Chlorophite-4
+Hastium-2
+Blood-1
+Butter of Antimony-3
+Butter of Tin-4
+Oil of Tartar-5
+Oil of Tartar per delinquium-7
+Oil of Vitriol-3
+Spirit of Box-5
+Spirit of Heartshorn-1
+Spirit of Salt-3
+Spirit of Nitre-4
+Spiritis Fumans-3
+Mosaic Gold-4
+Blue Vitrol-2
+Sweet Vitrol-3
+Choleric Humor-5
+Sanguine Humor-5
+Sodium Borate-2
+Melancholic Humor-5
+Phlegmatic Humor-5
+Calamine-1
+Calomel-1
+Calx-1
+Vermillion-1
+Copper Glance-2
+Cuprite-1
+Dutch White-3
+Flowers of Antimony-2
+Galena-1
+Horn Silver-5
+King's Yellow-3
+Lead Fume-1
+Marcasite-3
+Pearl White-2
+Realgar-7
+Rouge-2
+Turpeth Mineral-4
+White Arsenic-2
+White Lead-3
+Zaffre-2
+Aqua Regia-3
+Aqua Tofani-4
+Aqua Vitae-2
+Mercurius Praecipitatus-6
+Powder of Algaroth-5
+Chalk-1
+Lava-1
+Invisiblium-3
+Adamantine-6
+Mythral-4
+Chrome Green-3
+Chrome Orange-5
+Chrome Red-3
+Chrome Yellow-4
+Lapis Solaris-6
+Orichalcum-5
+Ethanol-2
+Oil-3
+Teleportatium-3
+Hell Stone-3
+Polymorphine-4
+Demonite-5
+Palladium-5
+Urine-3
+Midas-7
+Healthium-4
+Aqua Fortis-7
+Ambrosia-5
+Void Liquid-1
+Alkahest-3
